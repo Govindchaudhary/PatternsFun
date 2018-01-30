@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1517327290 source:c:\patterns\main.cpp
+	<iostream>
+	<stdlib.h>
+
+1517246980 source:c:\patterns\pascal.cpp
+
